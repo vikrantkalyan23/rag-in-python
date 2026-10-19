@@ -1,0 +1,12 @@
+Our company provides software development services.
+
+We build web applications using Python, Node.js,
+React, and PostgreSQL.
+
+Our customer support team responds within 24 hours.
+
+Customers can request a refund within 7 days
+of purchasing a service.
+
+We use artificial intelligence to automate
+business processes and improve productivity.
